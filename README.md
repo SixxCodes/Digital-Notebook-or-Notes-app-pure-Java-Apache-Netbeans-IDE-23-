@@ -7,3 +7,6 @@
 1. src/thoughtnest_maingui for the codes.
 2. src/thoughtnest_images for the images.
 3. userData.txt for storing user datas (used hashmap for this).
+
+Note:
+If I can, I also want to turn this project, ThoughtNest, into a mobile or android application so I could practice some more.
