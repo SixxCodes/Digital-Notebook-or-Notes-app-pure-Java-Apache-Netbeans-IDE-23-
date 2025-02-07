@@ -8,5 +8,5 @@
 2. src/thoughtnest_images for the images.
 3. userData.txt for storing user datas (used hashmap for this).
 
-### Note:
+### 🌱 Note:
 If I can, I also want to turn this project, ThoughtNest, into a mobile or android application so I could practice some more. If I also can, I want to put it on playstore. Maybe I'll use Dart on Android Studios, or still Java.
